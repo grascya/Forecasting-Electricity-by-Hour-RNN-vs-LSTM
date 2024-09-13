@@ -13,7 +13,7 @@ All values are in MWs.<br><br>
 - I first loaded and Displayed the Dataset and then created the plots to explore the dataset and gain insights about ELectricity Consumption. Here are some Insights:
   - The country imports a little more electricity than it exports.
   - On average 1291 Mws of nuclear energy is produced per hour.
-  -  In 2023, 32.4% of electricity production was hydroelectric
+  -  In 2023, 32.4% of electricity production was hydroelectric.
   -  Hydroelectric and Nuclear have a Negative Correlation meaning when the production of one is increasing the second decreases
 - Then I apply the RNN na LSTM to forecast Electricity production and consumption
 - Both of this gives amazing results but the LSTM performs slightly better with a coefficient of determination of 0.98 on Consumption and 0.96 on Production than the RNN.
