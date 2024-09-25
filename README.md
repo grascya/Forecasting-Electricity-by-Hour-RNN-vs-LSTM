@@ -16,5 +16,5 @@ All values are in MWs.<br><br>
   -  In 2023, 32.4% of electricity production was hydroelectric.
   -  Hydroelectric and Nuclear have a Negative Correlation meaning when the production of one is increasing the second decreases
 - Then I apply the RNN na LSTM to forecast Electricity production and consumption.
-- Both of this gives amazing results but the LSTM performs slightly better with a coefficient of determination of 0.98 on Consumption and 0.96 on Production than the RNN.
+- Both of this gives amazing results but the LSTM performs slightly better with a coefficient of determination of 0.98 on Consumption and 0.96 on Production than the RNN .
 
