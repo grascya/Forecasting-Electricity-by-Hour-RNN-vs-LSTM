@@ -6,7 +6,7 @@ It includes the hourly consumption and production, and the production is split i
 When the production is greater than the consumption it means we are exporting electricity, when the value is smaller it means we are importing electricity.<br>
 All values are in MWs.<br><br>
 **Objective**: Explore the Production and Consumption of Electricity produced by different types of energy sources and build an RNN and LSTM to forecast them <br>
-**Methods Used**: Exploratory Data Analysis, time series analysis,  Data Visualization, deep learning, Predictive Modeling .<br>
+**Methods Used**: Exploratory Data Analysis, time series analysis,  Data Visualization, deep learning, Predictive Modeling.<br>
 **Type of Problem**: Multivariate Regression.<br>
 **Language, Libraries, technologies used**: Python, Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn, TensorFlow, Keras <br>
 ## Key Insights
