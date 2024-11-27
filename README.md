@@ -4,7 +4,7 @@
 Hourly Electricity Consumption and Production by Type in Romania for 5.5 years.
 It includes hourly consumption and production, split into categories: Nuclear, Wind, Hydroelectric, Oil and Gas, Coal, Solar, and Biomass.
 When the production is greater than the consumption it means we are exporting electricity, when the value is smaller it means we are importing electricity.<br>
-All values are in MWs.<br><br>
+All values are in MWs .<br><br>
 **Objective**: Explore the Production and Consumption of Electricity produced by different types of energy sources and build an RNN and LSTM to forecast them <br>
 **Methods Used**: Exploratory Data Analysis, time series analysis,  Data Visualization, deep learning, Predictive Modeling.<br>
 **Type of Problem**: Multivariate Regression.<br>
